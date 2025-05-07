@@ -3,8 +3,8 @@
 My name is Maddy and I am a senior Computer Science student at Skidmore College!
 
 - 🌟 I am the President of [Skidmore Codes](https://www.linkedin.com/company/skidmore-codes), our school's go-to club for all things tech
-- 🌱 I’m currently learning C++ for robotics projects and SQL to implement databases for my projects
-- 📲 I have experience with mobile app development
+- 🌱 I’m currently learning working on building Java web applications and learning system administration
+- 📲 I have experience with mobile app development, system administration, and robotics
 - 💬 Ask me about K-Pop!
 - 📫 How to reach me: mmfung34@gmail.com
 
